@@ -1,0 +1,8 @@
+{
+	"pretext": "http://api.wunderground.com/api",
+	"posttext": "conditions/q", "apiKey": "8eb27b73ee06fa6a",
+	"exampleURL": "http://api.wunderground.com/api/8eb27b73ee06fa6a/conditions/q/CA/San_Francisco.json",
+	"hometown": "Mountain_View",
+	"homestate": "CA",
+	"search_prefix": "http://autocomplete.wunderground.com/aq?query="
+}
